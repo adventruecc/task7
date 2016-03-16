@@ -8,7 +8,7 @@ a{text-decoration:none;color:#ffffff}
 
 .container{width:1280px;height:4554px;margin:0 auto;background-color:red;}
 	.header{width: 100%;height:57px;background-color:#ffffff;float: left;font-size:1.2em}
-		 .logo{width:10%;height:100%;border:1px solid #336699;float:left;margin-left:1%;text-align: center;line-height:57px;}
+		 .logo{width:10%;height:100%;float:left;margin-left:1%;text-align: center;line-height:57px;}
 		 .logo a{background:url(../images/tasklogo.png) no-repeat left;}
 		 .logo a big{margin-left: 50px;color:#393a3a;}
 
