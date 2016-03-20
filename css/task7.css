@@ -64,7 +64,7 @@ a{text-decoration:none;color:#ffffff}
 				.pu_activiyu p{color:#968E8A;padding-bottom:4%}
 				.pu_activiyu img{border:1px solid #CBCBCB;background-color:#ffffff;padding:6% 4%}
 				.none_bd img{border-bottom:none;}
-		.main_activity{width: 100%;height: 30%;border-bottom:2px solid #938e8c;}
+		.main_activity{width: 100%;height: 30%;border-bottom:1px solid #938e8c;}
 			.top_details{height: 50%;width: 100%;float:left;}
 			.top_details .left_de{width:70%;height: 100%;background:url(../images/task_xsj1.png) no-repeat ;float:left;text-align: center;color:#ffffff;padding-top:10%}
 				        .left_de h3{font-size:3.5em}
